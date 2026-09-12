@@ -4,6 +4,15 @@
 
 **Демо:** [mikhail-ilnitsky.github.io/Vibe_MosaicGame_JS_Cursor-Opus-5](https://mikhail-ilnitsky.github.io/Vibe_MosaicGame_JS_Cursor-Opus-5/)
 
+## Особенности
+
+Собрано по подробному промпту с помощью **Claude-Opus-5-Thinking-High**
+
+Начальный промпт (достаточный результат):
+- 1 запуск Claude-Opus-5-Thinking-High = 4602 Ktoken
+
+Всего в сумме: 4602 Ktoken = 4.6 Mtoken
+
 ## Возможности
 
 - Галерея картинок с локализацией названий (RU / EN, переключатель в правом верхнем углу)
